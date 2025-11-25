@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/dummyPack/__init__.py
+src/dummyPack/sum_tn.py
+src/dummyPack.egg-info/PKG-INFO
+src/dummyPack.egg-info/SOURCES.txt
+src/dummyPack.egg-info/dependency_links.txt
+src/dummyPack.egg-info/requires.txt
+src/dummyPack.egg-info/top_level.txt
