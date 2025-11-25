@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "dummy_pack"
+name = "dummyPack"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
