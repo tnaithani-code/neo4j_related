@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 
 def add_two_numbers(a: int, b: int) -> int:
     """
