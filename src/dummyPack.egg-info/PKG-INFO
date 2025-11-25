@@ -1,11 +1,11 @@
 Metadata-Version: 2.4
-Name: dummy_pack
+Name: dummyPack
 Version: 0.1.0
 Summary: Add your description here
 Requires-Python: >=3.12
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: numpy>=2.3.5
+Requires-Dist: numpy>=2.2.2
 Dynamic: license-file
 
 # neo4j_related
